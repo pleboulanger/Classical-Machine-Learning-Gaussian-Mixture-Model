@@ -1,5 +1,5 @@
-# Classical Machine Learning Gaussian Mixture Model (Comming soon)
-Classical Machine Learning Gaussian Mixture Model (Comming soon)
+# Classical Machine Learning Gaussian Mixture Models (Comming soon)
+Classical Machine Learning Gaussian Mixture Models (Comming soon)
 
 For now, you can go to the following link from scikit-learn website (great ressource!). I will try to set a simple example with the Iris dataset.
 
